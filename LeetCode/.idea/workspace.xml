@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8596dfe8-3815-47ea-8264-6e9b12104264" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YPwwr01eKrXziPhPG2X9bPZlCF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.fetch_bs4">
+    <configuration name="fetch_bilibili" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fetch_bilibili.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fetch_bs4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fetch_bs4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fetch_lxml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fetch_lxml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="firstUniqChar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstUniqChar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getSum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getSum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.getSum" />
+      <item itemvalue="Python.firstUniqChar" />
+      <item itemvalue="Python.fetch_bilibili" />
+      <item itemvalue="Python.fetch_lxml" />
+      <item itemvalue="Python.fetch_bs4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fetch_bs4" />
+        <item itemvalue="Python.fetch_lxml" />
+        <item itemvalue="Python.fetch_bilibili" />
+        <item itemvalue="Python.firstUniqChar" />
+        <item itemvalue="Python.getSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8596dfe8-3815-47ea-8264-6e9b12104264" name="Default Changelist" comment="" />
+      <created>1582857778588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582857778588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="47" key="#addDigits" timestamp="1592812632285">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#addDigits/0.23.1440.821@0.23.1440.821" timestamp="1592812632285" />
+    <state x="184" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595905261645">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="184" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1595905261645" />
+    <state x="427" y="47" key="#containsNearbyDuplicateII_(1)" timestamp="1592795654682">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#containsNearbyDuplicateII_(1)/0.23.1440.821@0.23.1440.821" timestamp="1592795654682" />
+    <state x="427" y="47" key="#coordinatesRange" timestamp="1594017661520">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#coordinatesRange/0.23.1440.821@0.23.1440.821" timestamp="1594017661520" />
+    <state x="427" y="47" key="#coordinatesRange_(1)" timestamp="1594098774889">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#coordinatesRange_(1)/0.23.1440.821@0.23.1440.821" timestamp="1594098774889" />
+    <state x="427" y="47" key="#coordinatesRange_(2)" timestamp="1594281641348">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#coordinatesRange_(2)/0.23.1440.821@0.23.1440.821" timestamp="1594281641348" />
+    <state x="415" y="47" key="#fetch_bilibili" timestamp="1597198768540">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="415" y="47" key="#fetch_bilibili/0.23.1440.821@0.23.1440.821" timestamp="1597198768540" />
+    <state x="415" y="47" key="#fetch_dianping" timestamp="1597202107675">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="415" y="47" key="#fetch_dianping/0.23.1440.822@0.23.1440.822" timestamp="1597202107675" />
+    <state x="415" y="47" key="#fetch_dianping_new" timestamp="1597211777400">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="415" y="47" key="#fetch_dianping_new/0.23.1440.823@0.23.1440.823" timestamp="1597211777400" />
+    <state x="427" y="47" key="#fetch_stockX" timestamp="1595816687421">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#fetch_stockX/0.23.1440.821@0.23.1440.821" timestamp="1595816687421" />
+    <state x="415" y="47" key="#firstUniqChar" timestamp="1596187622587">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="415" y="47" key="#firstUniqChar/0.23.1440.821@0.23.1440.821" timestamp="1596187622587" />
+    <state x="415" y="47" key="#getHint" timestamp="1596004534206">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="415" y="47" key="#getHint/0.23.1440.821@0.23.1440.821" timestamp="1596004534206" />
+    <state x="415" y="47" key="#getSum" timestamp="1596184252554">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="415" y="47" key="#getSum/0.23.1440.821@0.23.1440.821" timestamp="1596184252554" />
+    <state x="427" y="47" key="#intersect" timestamp="1595939011655">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#intersect/0.23.1440.821@0.23.1440.821" timestamp="1595939011655" />
+    <state x="415" y="47" key="#intersection" timestamp="1596173731770">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="415" y="47" key="#intersection/0.23.1440.821@0.23.1440.821" timestamp="1596173731770" />
+    <state x="427" y="47" key="#isAnagram" timestamp="1592804875567">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#isAnagram/0.23.1440.821@0.23.1440.821" timestamp="1592804875567" />
+    <state x="415" y="47" key="#isPerfectSquare" timestamp="1596175568042">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="415" y="47" key="#isPerfectSquare/0.23.1440.821@0.23.1440.821" timestamp="1596175568042" />
+    <state x="415" y="47" key="#isPowerOfFour" timestamp="1596078421219">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="415" y="47" key="#isPowerOfFour/0.23.1440.822@0.23.1440.822" timestamp="1596078421219" />
+    <state x="415" y="47" key="#isPowerOfThree" timestamp="1596021378734">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="415" y="47" key="#isPowerOfThree/0.23.1440.822@0.23.1440.822" timestamp="1596021378734" />
+    <state x="427" y="47" key="#isPowerOfTwo" timestamp="1592796517274">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#isPowerOfTwo/0.23.1440.821@0.23.1440.821" timestamp="1592796517274" />
+    <state x="427" y="47" key="#isUgly" timestamp="1592876949241">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#isUgly/0.23.1440.821@0.23.1440.821" timestamp="1592876949241" />
+    <state x="427" y="47" key="#learing_func_apply" timestamp="1595381406831">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#learing_func_apply/0.23.1440.821@0.23.1440.821" timestamp="1595381406831" />
+    <state x="427" y="47" key="#missingNumber" timestamp="1592877444712">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#missingNumber/0.23.1440.821@0.23.1440.821" timestamp="1592877444712" />
+    <state x="427" y="47" key="#moveZeroes" timestamp="1594608962674">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#moveZeroes/0.23.1440.821@0.23.1440.821" timestamp="1594608962674" />
+    <state x="427" y="47" key="#qcut_and_cut" timestamp="1595474074643">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#qcut_and_cut/0.23.1440.821@0.23.1440.821" timestamp="1595474074643" />
+    <state x="415" y="47" key="#reverseString" timestamp="1596078754990">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="415" y="47" key="#reverseString/0.23.1440.822@0.23.1440.822" timestamp="1596078754990" />
+    <state x="415" y="47" key="#reverseVowels" timestamp="1596086901369">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="415" y="47" key="#reverseVowels/0.23.1440.821@0.23.1440.821" timestamp="1596086901369" />
+    <state x="427" y="47" key="#timstamp" timestamp="1592904562500">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="427" y="47" key="#timstamp/0.23.1440.821@0.23.1440.821" timestamp="1592904562500" />
+    <state x="415" y="47" key="#wordPattern" timestamp="1595928069392">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="415" y="47" key="#wordPattern/0.23.1440.821@0.23.1440.821" timestamp="1595928069392" />
+    <state width="1419" height="279" key="GridCell.Tab.0.bottom" timestamp="1597303720702">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="279" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1597234828411" />
+    <state width="1419" height="279" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1597303720702" />
+    <state width="1419" height="279" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1597224396739" />
+    <state width="1419" height="158" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1597219632321" />
+    <state width="1419" height="279" key="GridCell.Tab.0.center" timestamp="1597303720701">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="279" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1597234828411" />
+    <state width="1419" height="279" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1597303720701" />
+    <state width="1419" height="279" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1597224396739" />
+    <state width="1419" height="158" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1597219632320" />
+    <state width="1419" height="279" key="GridCell.Tab.0.left" timestamp="1597303720701">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="279" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1597234828410" />
+    <state width="1419" height="279" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1597303720701" />
+    <state width="1419" height="279" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1597224396738" />
+    <state width="1419" height="158" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1597219632319" />
+    <state width="1419" height="279" key="GridCell.Tab.0.right" timestamp="1597303720701">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1419" height="279" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1597234828411" />
+    <state width="1419" height="279" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1597303720701" />
+    <state width="1419" height="279" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1597224396739" />
+    <state width="1419" height="158" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1597219632320" />
+    <state x="221" y="72" key="SettingsEditor" timestamp="1595821248928">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="221" y="72" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1595821248928" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1597217748949">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1595928000364" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1597211659705" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1597217748949" />
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1595851496796">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1595851496796" />
+  </component>
+</project>
